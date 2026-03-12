@@ -11,7 +11,7 @@ const Author: React.FC = () => {
             {/* Espaço reservado para foto do autor */}
             <div className="h-96 md:h-full bg-gray-200 overflow-hidden">
               <img 
-                src="https://picsum.photos/seed/diego-araujo/600/800" 
+                src="https://lh3.googleusercontent.com/d/1LnbJLj5JpLBwIO1kTRTg1BvbRUUSCpNn" 
                 alt="Diego Araújo" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />

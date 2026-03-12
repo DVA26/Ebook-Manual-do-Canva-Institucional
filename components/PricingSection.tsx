@@ -27,7 +27,7 @@ const PricingSection: React.FC = () => {
               </div>
 
               <a 
-                href="https://pay.hotmart.com/H104125075D" 
+                href="https://hotm.io/WXdC7kW" 
                 className="block w-full py-5 px-8 rounded-full text-white font-extrabold text-xl btn-gradient shadow-lg uppercase tracking-widest mb-8 text-center"
               >
                 Quero o Ebook agora

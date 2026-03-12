@@ -1,0 +1,494 @@
+{
+  "version": "0.4",
+  "title": "Manual do Canva Institucional",
+  "type": "page",
+  "content": [
+    {
+      "id": "s1",
+      "elType": "section",
+      "settings": {
+        "background_background": "gradient",
+        "background_color": "#141931",
+        "background_color_b": "#252d54",
+        "background_gradient_angle": { "unit": "deg", "size": 135 },
+        "padding": { "unit": "px", "top": "100", "right": "0", "bottom": "100", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c1",
+          "elType": "column",
+          "settings": { "_column_size": 50 },
+          "elements": [
+            {
+              "id": "w1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "MARKETING ESTRATÉGICO EXCLUSIVO",
+                "header_size": "div",
+                "title_color": "#01C2CD",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 14 },
+                "typography_font_weight": "700",
+                "typography_text_transform": "uppercase"
+              }
+            },
+            {
+              "id": "w2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Manual do <span style=\"color: #01C2CD;\">Canva</span> Institucional",
+                "header_size": "h1",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 56 },
+                "typography_font_weight": "800"
+              }
+            },
+            {
+              "id": "w3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "content": "<p>Transforme a imagem da sua empresa ou órgão público com comunicação visual inteligente, técnica e profissional.</p>",
+                "text_color": "#cccccc",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 20 }
+              }
+            },
+            {
+              "id": "w4",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "De R$ 47,90 por apenas",
+                "header_size": "div",
+                "title_color": "#999999",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 18 },
+                "typography_text_decoration": "line-through"
+              }
+            },
+            {
+              "id": "w5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "R$ 27,90",
+                "header_size": "h2",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 48 },
+                "typography_font_weight": "800"
+              }
+            },
+            {
+              "id": "w6",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Quero o Ebook",
+                "link": { "url": "https://hotm.io/WXdC7kW", "is_external": "yes" },
+                "size": "lg",
+                "background_color": "#01C2CD",
+                "typography_typography": "custom",
+                "typography_font_weight": "700"
+              }
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "elType": "column",
+          "settings": { "_column_size": 50 },
+          "elements": [
+            {
+              "id": "w7",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://lh3.googleusercontent.com/d/1rwm5wjv6kZxHkUVkZi7FWuYulE5tZGwt" }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f9fafb",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c3",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Você enfrenta estes problemas na sua instituição?",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#141931"
+              }
+            },
+            {
+              "id": "w9",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "width": { "unit": "%", "size": 10 },
+                "align": "center",
+                "color": "#01C2CD",
+                "weight": 4
+              }
+            },
+            {
+              "id": "w10",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "title_text": "Materiais Desatualizados",
+                "description_text": "Documentos e artes com design antigo que não refletem a modernidade da sua instituição.",
+                "icon": "fa fa-clock-o",
+                "icon_position": "top",
+                "title_size": "h3"
+              }
+            },
+            {
+              "id": "w11",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "title_text": "Falta de Padrão Visual",
+                "description_text": "Cada departamento cria de um jeito, gerando uma bagunça visual que confunde o público.",
+                "icon": "fa fa-exclamation-circle",
+                "icon_position": "top",
+                "title_size": "h3"
+              }
+            },
+            {
+              "id": "w12",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "title_text": "Dependência de Terceiros",
+                "description_text": "Ficar travado aguardando agências ou freelancers para alterações simples do dia a dia.",
+                "icon": "fa fa-users",
+                "icon_position": "top",
+                "title_size": "h3"
+              }
+            },
+            {
+              "id": "w13",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "title_text": "Perda de Credibilidade",
+                "description_text": "Uma comunicação visual amadora transmite insegurança e falta de profissionalismo institucional.",
+                "icon": "fa fa-shield",
+                "icon_position": "top",
+                "title_size": "h3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c4",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w14",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Este manual resolve, na prática, os principais desafios da comunicação institucional.",
+                "header_size": "h2",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w15",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "content": "<p>Aprenda a utilizar o Canva não apenas como uma ferramenta de design, mas como um aliado estratégico para manter a integridade visual da sua marca.</p>",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w16",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  { "text": "Criação de Identidade Visual Coesa" },
+                  { "text": "Templates Adaptáveis para Equipes" },
+                  { "text": "Agilidade sem Perder a Qualidade" },
+                  { "text": "Linguagem Visual para Órgãos Públicos" },
+                  { "text": "Padronização de Documentos e Ofícios" },
+                  { "text": "Comunicação Estratégica Digital" }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f3f4f6",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c5",
+          "elType": "column",
+          "settings": { "_column_size": 40 },
+          "elements": [
+            {
+              "id": "w17",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://lh3.googleusercontent.com/d/1LnbJLj5JpLBwIO1kTRTg1BvbRUUSCpNn" }
+              }
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "elType": "column",
+          "settings": { "_column_size": 60 },
+          "elements": [
+            {
+              "id": "w18",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Sobre o autor",
+                "header_size": "div",
+                "title_color": "#01C2CD"
+              }
+            },
+            {
+              "id": "w19",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Diego Araújo",
+                "header_size": "h2"
+              }
+            },
+            {
+              "id": "w20",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "content": "<blockquote>“Sou Diego Araújo, publicitário e designer com mais de 20 anos de experiência em comunicação visual, marketing e audiovisual. Atuo na criação de identidades visuais, materiais institucionais e comunicação estratégica para empresas e órgãos públicos, unindo técnica, clareza e profissionalismo.”</blockquote>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c7",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w21",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Aproveite esta oportunidade única",
+                "header_size": "h2",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w22",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "R$ 27,90",
+                "header_size": "h1",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 72 }
+              }
+            },
+            {
+              "id": "w23",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Quero o Ebook agora",
+                "link": { "url": "https://hotm.io/WXdC7kW" },
+                "align": "center",
+                "size": "xl",
+                "background_color": "#7D2AE7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#141931",
+        "padding": { "unit": "px", "top": "60", "right": "0", "bottom": "60", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c8",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w24_img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://lh3.googleusercontent.com/d/14ziPIPhLx7c6X2paeoRTLVHMPaxf7nZg" },
+                "image_size": "large",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w24",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Garantia incondicional de 7 dias",
+                "header_size": "h2",
+                "title_color": "#ffffff",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w25",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "content": "<p>Seu dinheiro de volta sem perguntas até 7 dias após a compra. Teste o material, aplique na sua instituição e, se não gostar, devolvemos 100% do valor.</p>",
+                "text_color": "#cccccc",
+                "align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c9",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w26",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Perguntas Frequentes",
+                "header_size": "h2",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w27",
+              "elType": "widget",
+              "widgetType": "accordion",
+              "settings": {
+                "tabs": [
+                  { "tab_title": "Para quem é esse produto?", "tab_content": "O Manual é ideal para assessores de comunicação, gestores de órgãos públicos, profissionais de marketing em empresas e qualquer pessoa responsável por zelar pela imagem institucional e que busca agilidade e padronização visual através do Canva." },
+                  { "tab_title": "Como funciona o Prazo de Garantia?", "tab_content": "O Prazo de Garantia é o período que você tem para pedir o reembolso integral do valor pago pela sua compra, caso o produto não seja satisfatório." },
+                  { "tab_title": "Como acessar o produto?", "tab_content": "O acesso será enviado por e-mail ou disponibilizado na conta do cliente via Hotmart. Imediatamente após a confirmação do pagamento, você receberá os dados de acesso." },
+                  { "tab_title": "Como faço para comprar?", "tab_content": "Clique no botão de 'Quero profissionalizar minha comunicação' ou qualquer botão de aquisição disponível na página. Você será redirecionado para a página de pagamento segura da Hotmart." }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#141931",
+        "padding": { "unit": "px", "top": "40", "right": "0", "bottom": "40", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "c10",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "w28",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "DIEGO ARAÚJO",
+                "header_size": "h3",
+                "title_color": "#01C2CD",
+                "align": "center"
+              }
+            },
+            {
+              "id": "w29",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "content": "<p>Especialista em comunicação visual institucional e estratégica para o setor público e privado.</p>",
+                "text_color": "#999999",
+                "align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -32,7 +32,7 @@ const PainPoints: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-brand-dark mb-4 font-heading">
-            Sua instituição enfrenta esses problemas?
+            Você enfrenta estes problemas na sua instituição?
           </h2>
           <div className="w-20 h-1.5 bg-brand-teal mx-auto mb-6"></div>
         </div>

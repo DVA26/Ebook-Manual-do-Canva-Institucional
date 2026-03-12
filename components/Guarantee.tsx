@@ -1,6 +1,5 @@
 
 import React from 'react';
-import { Award } from 'lucide-react';
 
 const Guarantee: React.FC = () => {
   return (
@@ -9,7 +8,12 @@ const Guarantee: React.FC = () => {
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8 text-center md:text-left">
           <div className="relative">
             <div className="absolute inset-0 bg-brand-teal/20 rounded-full blur-2xl"></div>
-            <Award className="w-32 h-32 text-brand-teal relative z-10" />
+            <img 
+              src="https://lh3.googleusercontent.com/d/14ziPIPhLx7c6X2paeoRTLVHMPaxf7nZg" 
+              alt="Selo de Garantia" 
+              className="w-48 h-48 object-contain relative z-10"
+              referrerPolicy="no-referrer"
+            />
           </div>
           
           <div>

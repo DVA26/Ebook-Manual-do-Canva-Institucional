@@ -24,7 +24,7 @@ const App: React.FC = () => {
       {/* Sticky Bottom CTA for Mobile */}
       <div className="md:hidden fixed bottom-0 left-0 right-0 p-4 bg-white/80 backdrop-blur-md border-t border-gray-200 z-50">
         <a 
-          href="https://pay.hotmart.com/H104125075D"
+          href="https://hotm.io/WXdC7kW"
           className="block w-full text-center py-3 px-6 rounded-full text-white font-bold text-sm btn-gradient shadow-lg uppercase tracking-wide"
         >
           Quero o Manual Agora

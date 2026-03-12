@@ -38,7 +38,7 @@ const Solution: React.FC = () => {
               Pronto para elevar o nível da sua comunicação?
             </h3>
             <a 
-              href="https://pay.hotmart.com/H104125075D"
+              href="https://hotm.io/WXdC7kW"
               className="inline-block px-10 py-5 rounded-full text-white font-extrabold text-lg btn-gradient shadow-2xl uppercase tracking-widest"
             >
               Quero acesso ao manual

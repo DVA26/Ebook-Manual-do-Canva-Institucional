@@ -13,11 +13,11 @@ const Hero: React.FC = () => {
           
           <div className="w-full md:w-1/2 text-center md:text-left">
             <div className="inline-block px-4 py-1 rounded-full border border-brand-teal/30 text-brand-teal text-sm font-semibold mb-6 uppercase tracking-wider">
-              Conteúdo Exclusivo para Instituições
+              MARKETING ESTRATÉGICO EXCLUSIVO
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-6 font-heading">
-              Manual do Canva <span className="text-brand-teal">Institucional</span>
+              Manual do <span className="text-brand-teal">Canva</span> Institucional
             </h1>
             
             <p className="text-gray-300 text-lg md:text-xl mb-8 leading-relaxed max-w-xl mx-auto md:mx-0">
@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <a 
-                href="https://pay.hotmart.com/H104125075D" 
+                href="https://hotm.io/WXdC7kW" 
                 className="btn-gradient px-8 py-4 rounded-full text-white font-bold text-lg shadow-xl uppercase tracking-wide text-center"
               >
                 Quero o Ebook
@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
             <div className="relative w-full max-w-md aspect-[3/4] bg-white/5 border border-white/10 rounded-2xl shadow-2xl overflow-hidden group">
                {/* Mockup Placeholder */}
                <img 
-                 src="https://picsum.photos/seed/canva-ebook/600/800" 
+                 src="https://lh3.googleusercontent.com/d/1rwm5wjv6kZxHkUVkZi7FWuYulE5tZGwt" 
                  alt="Mockup do Ebook Manual do Canva Institucional" 
                  className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-500"
                />
