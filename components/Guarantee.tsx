@@ -4,12 +4,12 @@ import React from 'react';
 const Guarantee: React.FC = () => {
   return (
     <section className="py-16 bg-brand-dark text-white overflow-hidden">
-      <div className="container mx-auto px-4 relative">
+      <div className="container mx-auto px-6 md:px-12 lg:px-24 relative">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8 text-center md:text-left">
           <div className="relative">
             <div className="absolute inset-0 bg-brand-teal/20 rounded-full blur-2xl"></div>
             <img 
-              src="https://lh3.googleusercontent.com/d/14ziPIPhLx7c6X2paeoRTLVHMPaxf7nZg" 
+              src="https://lh3.googleusercontent.com/d/1tO6hEl04pRBvRRPpEUvMMBK9N_oTSHPB" 
               alt="Selo de Garantia" 
               className="w-48 h-48 object-contain relative z-10"
               referrerPolicy="no-referrer"

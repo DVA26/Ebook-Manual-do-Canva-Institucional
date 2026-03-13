@@ -3,6 +3,7 @@ import React from 'react';
 import Hero from './components/Hero';
 import PainPoints from './components/PainPoints';
 import Solution from './components/Solution';
+import Testimonials from './components/Testimonials';
 import Author from './components/Author';
 import PricingSection from './components/PricingSection';
 import Guarantee from './components/Guarantee';
@@ -15,6 +16,7 @@ const App: React.FC = () => {
       <Hero />
       <PainPoints />
       <Solution />
+      <Testimonials />
       <Author />
       <PricingSection />
       <Guarantee />

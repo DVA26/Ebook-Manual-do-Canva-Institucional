@@ -4,15 +4,16 @@ import React from 'react';
 const Author: React.FC = () => {
   return (
     <section className="py-20 bg-gray-50 border-y border-gray-100">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-6 md:px-12 lg:px-24">
         <div className="max-w-5xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden flex flex-col md:flex-row items-stretch">
           
           <div className="w-full md:w-2/5 relative">
             {/* Espaço reservado para foto do autor */}
             <div className="h-96 md:h-full bg-gray-200 overflow-hidden">
               <img 
-                src="https://lh3.googleusercontent.com/d/1LnbJLj5JpLBwIO1kTRTg1BvbRUUSCpNn" 
+                src="https://lh3.googleusercontent.com/d/1-nOoFCjUH_kwtII3h9GetnN9LjIAogLJ" 
                 alt="Diego Araújo" 
+                referrerPolicy="no-referrer"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
             </div>

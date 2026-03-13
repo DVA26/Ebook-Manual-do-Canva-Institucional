@@ -29,7 +29,7 @@ const PainPoints: React.FC = () => {
 
   return (
     <section className="py-20 bg-gray-50">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-6 md:px-12 lg:px-24">
         <div className="text-center mb-16 max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-brand-dark mb-4 font-heading">
             Você enfrenta estes problemas na sua instituição?
